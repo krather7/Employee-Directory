@@ -11,12 +11,9 @@
 - [Contributing](#contributing)
 - [Questions](#questions)
 ## Deployed Website
-- https://workout-tracker-kfr.herokuapp.com/?id=60bd06038ac19700152846fd
+- 
 ## Description
-- The user can track their fitness by logging workouts
-- The user can add recent workouts that are saved to a database
-- When the user returns to the application, their workouts are saved
-- There is a statistic page that shows the past seven workouts
+- 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
